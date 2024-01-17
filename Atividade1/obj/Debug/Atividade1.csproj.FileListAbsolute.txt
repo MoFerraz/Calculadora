@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\MoFerraz\Atividade1\bin\Debug\Atividade1.exe.config
+C:\Users\Aluno\Desktop\MoFerraz\Atividade1\bin\Debug\Atividade1.exe
+C:\Users\Aluno\Desktop\MoFerraz\Atividade1\bin\Debug\Atividade1.pdb
+C:\Users\Aluno\Desktop\MoFerraz\Atividade1\obj\Debug\Atividade1.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\MoFerraz\Atividade1\obj\Debug\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\MoFerraz\Atividade1\obj\Debug\Atividade1.exe
+C:\Users\Aluno\Desktop\MoFerraz\Atividade1\obj\Debug\Atividade1.pdb

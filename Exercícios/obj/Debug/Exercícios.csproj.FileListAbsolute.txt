@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\MoFerraz\Exercícios\bin\Debug\Exercícios.exe.config
+C:\Users\Aluno\Desktop\MoFerraz\Exercícios\bin\Debug\Exercícios.exe
+C:\Users\Aluno\Desktop\MoFerraz\Exercícios\bin\Debug\Exercícios.pdb
+C:\Users\Aluno\Desktop\MoFerraz\Exercícios\obj\Debug\Exercícios.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\MoFerraz\Exercícios\obj\Debug\Exercícios.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\MoFerraz\Exercícios\obj\Debug\Exercícios.exe
+C:\Users\Aluno\Desktop\MoFerraz\Exercícios\obj\Debug\Exercícios.pdb
